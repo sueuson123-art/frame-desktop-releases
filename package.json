@@ -1,0 +1,8 @@
+{
+  "name": "frame-license-updates",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "FRAME license activation and signed update service",
+  "scripts": { "deploy": "npx --yes wrangler@4 deploy" }
+}
